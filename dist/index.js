@@ -1,9 +1,10 @@
-import React from 'react';
+import Button from './components/Button.js';
+import FakeSelect from './components/FakeSelect.js';
 
-var Component = function Component(_ref) {
-  var label = _ref.label;
-  return /*#__PURE__*/React.createElement("span", null, label);
+var index = {
+  Button,
+  FakeSelect,
 };
 
-export { Component as default };
+export { index as default };
 //# sourceMappingURL=index.js.map
