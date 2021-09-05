@@ -1,6 +1,6 @@
 {
-  "name": "test-component-ts",
-  "version": "1.0.0",
+  "name": "@arturo-gallegos/test-component-ts",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
