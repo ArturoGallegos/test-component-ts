@@ -10,7 +10,7 @@ const EXTENSIONS = [".ts", ".tsx"];
 const EXTERNAL = Object.keys(pkg.devDependencies);
 
 export default {
-  input: ["src/index.js"],  // What files we build?
+  input: ["src/test-component-ts.js"],  // What files we build?
   output: {
     dir: "dist",  // Directory where rollup.js will put the built files
     sourcemap: true,  // We want a source map to trace the original code

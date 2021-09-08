@@ -1,10 +1,10 @@
 import Button from './components/Button.js';
 import FakeSelect from './components/FakeSelect.js';
 
-var index = {
+var testComponentTs = {
   Button,
   FakeSelect,
 };
 
-export { index as default };
-//# sourceMappingURL=index.js.map
+export { testComponentTs as default };
+//# sourceMappingURL=test-component-ts.js.map

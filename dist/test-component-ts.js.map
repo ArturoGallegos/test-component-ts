@@ -1,0 +1,1 @@
+{"version":3,"file":"test-component-ts.js","sources":["../src/test-component-ts.js"],"sourcesContent":["import Button from './components/Button.tsx';\nimport FakeSelect from './components/FakeSelect.tsx';\n\nexport default {\n  Button,\n  FakeSelect,\n}\n"],"names":[],"mappings":";;;AAGA,sBAAe;AACf,EAAE,MAAM;AACR,EAAE,UAAU;AACZ;;;;"}
